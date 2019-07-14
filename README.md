@@ -1,6 +1,6 @@
 # Advanced Lane Lines Detection
 
-A demo of the pipeline (on both the project_video and challenge_video) can be found on [Youtube](https://www.youtube.com/watch?v=leUGLrnGym4)
+A demo of the pipeline (on both the project_video and challenge_video) can be found on [Youtube]()
 
 [![Advanced Lane Tracking Video](https://img.youtube.com/vi/leUGLrnGym4/0.jpg)](https://www.youtube.com/watch?v=leUGLrnGym4)
 
